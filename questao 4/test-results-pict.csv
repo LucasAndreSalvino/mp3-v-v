@@ -1,20 +1,20 @@
 Cliente-cadastrado	Pagamento	Autorizacao-pagamento	Restaurantes-cadastrados	Restaurantes-abertos	Refeicoes-restaurantes	Refeicoes-dia-restaurantes	Restaurantes-favoritos	Compras-recentes	Compras-recentes-validade	Refeicoes-escolhidas	Refeicoes-escolhidas-validade
-Sim	Dinheiro	Autorizado	Campina Grill	Campina Grill	2	2	Bar do cuz cuz	0	Invalida	file	Invalida
-Sim	Cartao	Nao-autorizado	Campina Grill	Picanha 200	1	0	Campina Grill	2	Invalida	batata frita	Invalida
-Sim	Dinheiro	Autorizado	Campina Grill	Bar do cuz cuz	1	1	Picanha 200	1	Valida	hamburger	Valida
-Sim	Cartao	Nao-autorizado	Bar do cuz cuz	Bar do cuz cuz	0	0	Bar do cuz cuz	1	Invalida	hamburger	Invalida
-Sim	Cartao	Autorizado	Campina Grill	Campina Grill	0	0	Picanha 200	2	Invalida	file	Invalida
-Sim	Cartao	Nao-autorizado	Campina Grill	Picanha 200	2	1	Campina Grill	1	Invalida	file	Invalida
-Sim	Cartao	Nao-autorizado	Picanha 200	Picanha 200	2	2	Picanha 200	0	Invalida	batata frita	Invalida
-Sim	Cartao	Nao-autorizado	Campina Grill	Bar do cuz cuz	2	2	Campina Grill	0	Valida	file	Valida
-Sim	Dinheiro	Autorizado	Campina Grill	Campina Grill	2	2	Bar do cuz cuz	1	Valida	batata frita	Valida
-Sim	Dinheiro	Autorizado	Bar do cuz cuz	Bar do cuz cuz	1	1	Bar do cuz cuz	2	Valida	batata frita	Valida
-Sim	Dinheiro	Autorizado	Picanha 200	Picanha 200	1	1	Picanha 200	0	Invalida	hamburger	Invalida
-Sim	Dinheiro	Autorizado	Picanha 200	Picanha 200	2	2	Picanha 200	2	Invalida	hamburger	Invalida
-Sim	Dinheiro	Autorizado	Campina Grill	Picanha 200	0	0	Campina Grill	0	Invalida	batata frita	Invalida
-Sim	Dinheiro	Autorizado	Picanha 200	Picanha 200	1	0	Picanha 200	1	Invalida	file	Invalida
-Sim	Cartao	Nao-autorizado	Campina Grill	Campina Grill	1	1	Campina Grill	0	Invalida	hamburger	Valida
-Sim	Dinheiro	Autorizado	Bar do cuz cuz	Bar do cuz cuz	2	2	Picanha 200	0	Valida	file	Invalida
-Nao	Dinheiro	Autorizado	Bar do cuz cuz	Bar do cuz cuz	1	1	Bar do cuz cuz	0	Valida	file	Valida
-Sim	Cartao	Autorizado	Bar do cuz cuz	Picanha 200	2	0	Bar do cuz cuz	1	Invalida	file	Invalida
-Sim	Cartao	Autorizado	Picanha 200	Picanha 200	0	0	Picanha 200	1	Invalida	hamburger	Invalida
+Sim	Dinheiro	Autorizado	Bar do cuz cuz, Campina Grill	Bar do cuz cuz, Campina Grill	Filé,  cuz cuz	Filé,  cuz cuz	Bar do cuz cuz	0	Invalida	cuz cuz	Invalida
+Sim	Cartao	Nao-autorizado	Bar do cuz cuz, Campina Grill	0	cuz cuz	0	Bar do cuz cuz, Campina Grill	Filé,  cuz cuz	Invalida	0	Invalida
+Sim	Dinheiro	Autorizado	Bar do cuz cuz, Campina Grill	Bar do cuz cuz	cuz cuz	cuz cuz	0	cuz cuz	Valida	Filé,  cuz cuz	Valida
+Sim	Cartao	Nao-autorizado	Bar do cuz cuz	Bar do cuz cuz	0	0	Campina Grill	cuz cuz	Invalida	Filé,  cuz cuz	Invalida
+Sim	Cartao	Autorizado	Bar do cuz cuz, Campina Grill	Bar do cuz cuz, Campina Grill	0	0	0	Filé,  cuz cuz	Invalida	cuz cuz	Invalida
+Sim	Cartao	Nao-autorizado	Bar do cuz cuz, Campina Grill	0	Filé,  cuz cuz	cuz cuz	Bar do cuz cuz, Picanha 200	cuz cuz	Invalida	cuz cuz	Invalida
+Sim	Cartao	Nao-autorizado	0	0	Filé,  cuz cuz	Filé,  cuz cuz	0	0	Invalida	0	Invalida
+Sim	Cartao	Nao-autorizado	Bar do cuz cuz, Campina Grill	Bar do cuz cuz	Filé,  cuz cuz	Filé,  cuz cuz	Picanha 200,Bar do cuz cuz	0	Valida	cuz cuz	Valida
+Sim	Dinheiro	Autorizado	Bar do cuz cuz, Campina Grill	Bar do cuz cuz, Campina Grill	Filé,  cuz cuz	Filé,  cuz cuz	Campina Grill	cuz cuz	Valida	0	Valida
+Sim	Dinheiro	Autorizado	Bar do cuz cuz	Bar do cuz cuz	cuz cuz	cuz cuz	Campina Grill	Filé,  cuz cuz	Valida	0	Valida
+Sim	Dinheiro	Autorizado	0	0	cuz cuz	cuz cuz	0	0	Invalida	Filé,  cuz cuz	Invalida
+Sim	Dinheiro	Autorizado	0	0	Filé,  cuz cuz	Filé,  cuz cuz	0	Filé,  cuz cuz	Invalida	Filé,  cuz cuz	Invalida
+Sim	Dinheiro	Autorizado	Bar do cuz cuz, Campina Grill	0	0	0	Picanha 200, Campina Grill	0	Invalida	0	Invalida
+Sim	Dinheiro	Autorizado	0	0	cuz cuz	0	0	cuz cuz	Invalida	cuz cuz	Invalida
+Sim	Cartao	Nao-autorizado	Bar do cuz cuz, Campina Grill	Bar do cuz cuz, Campina Grill	cuz cuz	cuz cuz	Bar do cuz cuz, Campina Grill	0	Invalida	Filé,  cuz cuz	Valida
+Sim	Dinheiro	Autorizado	Bar do cuz cuz	Bar do cuz cuz	Filé,  cuz cuz	Filé,  cuz cuz	0	0	Valida	cuz cuz	Invalida
+Nao	Dinheiro	Autorizado	Bar do cuz cuz	Bar do cuz cuz	cuz cuz	cuz cuz	Bar do cuz cuz	0	Valida	cuz cuz	Valida
+Sim	Cartao	Autorizado	Bar do cuz cuz	0	Filé,  cuz cuz	0	Picanha 200	cuz cuz	Invalida	cuz cuz	Invalida
+Sim	Cartao	Autorizado	0	0	0	0	0	cuz cuz	Invalida	Filé,  cuz cuz	Invalida
